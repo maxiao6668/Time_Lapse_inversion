@@ -2,7 +2,6 @@
 
 Reproducible material for Time-lapse seismic inversion using a 3D neural operator - Xiao Ma, Tariq Alkhalifah
 
-[Click here](https://kaust.sharepoint.com/:f:/r/sites/M365_Deepwave_Documents/Shared%20Documents/Restricted%20Area/REPORTS/DW0123?csf=1&web=1&e=qZRZLj) to access the Project Report. Authentication to the _Restricted Area_ filespace is required.
 
 # Project structure
 
